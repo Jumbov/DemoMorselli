@@ -9,7 +9,7 @@ import org.luca.pojos.Biblioteca;
 public class RestController {
 	
 	public void metodo1() {
-		
+		// comment
 
 		List<String> libri = new ArrayList<String>();
 		libri.add("Pnl per il carisma");
