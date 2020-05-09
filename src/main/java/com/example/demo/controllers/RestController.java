@@ -17,6 +17,7 @@ public class RestController {
 		libri.add("Cinciallegre");
 		libri.add("Natura e civiltà");
 		
+		System.out.println(libri);
 		
 		Biblioteca b = new Biblioteca();
 		BibliotecaManager bm = new BibliotecaManager();
